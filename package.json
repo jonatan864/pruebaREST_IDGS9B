@@ -1,0 +1,18 @@
+{
+  "name": "api_rest",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon server.js" 
+  },
+  "keywords": [],
+  "author": "Jonathan Efren Aranda Reyes",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
